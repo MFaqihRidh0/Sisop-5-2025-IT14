@@ -4,8 +4,9 @@
 
 Nama | NRP
 --- | ---
-Amoes Noland | 5027231028
-Rafi' Afnaan Fathurrahman | 5027231040
+Muhammad Fatihul Qolbi Ash Shiddiqi | 5027241023
+Mutiara Diva Jaladitha | 5027241083
+M. Faqih Ridho | 5027241123
 
 ## Daftar Isi
 
